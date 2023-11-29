@@ -60,7 +60,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
     <a href="https://instagram.com/nikhil140204?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr">
         <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
     </a>
-    <a href="https://www.linkedin.com/in/srijan-samridh/">
+    <a href="https://www.linkedin.com/in/nikhil-singh-68a041266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
         <img align="left" height="40" src="https://boncoach.com/wp-content/uploads/2021/10/connectionlinkedinnetworksocialsquaresquaredicon-1320086082476543960.png" alt="">
     </a>
 </div>
