@@ -57,7 +57,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
     <a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8">
     <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
     </a>
-    <a href="https://www.instagram.com/srijansamridh/">
+    <a href="https://instagram.com/nikhil140204?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr">
         <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
     </a>
     <a href="https://www.linkedin.com/in/srijan-samridh/">
